@@ -2,20 +2,23 @@
 
 Este repositório contém o código da landing page desenvolvida para apresentar os serviços jurídicos do advogado Júlio Maciel, oferecendo atendimento rápido e humanizado.
 
-## 🚀 Tecnologias utilizadas
-- HTML5
-- CSS3
-- JavaScript
-- Elementor (WordPress) → exportado para HTML
+## 🛠️ Tecnologias & Ferramentas
+- **WordPress**
+- **Elementor**
+- **HTML / CSS personalizado**
+- **GitHub Pages** (exportação estática)
+- Plugins:
+  - Simply Static  
+  - Elementor Free  
 
-## 💼 Sobre o projeto
-A página foi criada com foco em:
-- Clareza e comunicação direta
-- Conversão via WhatsApp
-- Apresentação dos serviços jurídicos de forma objetiva
-- Navegação simples e responsiva
+## ✨ Destaques do Projeto
+- Layout totalmente responsivo  
+- Identidade visual moderna e profissional  
+- Sessões otimizadas para conversão  
+- Animações suaves  
+- Estrutura fácil de editar
 
-## 🔗 Acesse a página
+## 📂 Visualizar o projeto
 👉 https://amandavsamorim.github.io/advogado-juliomaciel/
 ## :woman_technologist:  Autora
 
